@@ -46,3 +46,11 @@
     height: 200px;
     width: 200px;
 }
+
+/* .bg_control{
+    transform: translate(-175px,-142px);
+    height: 100vh !important;
+    width: 100vw !important;
+    background:linear-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 1)));
+
+} */
