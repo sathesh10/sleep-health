@@ -64,4 +64,30 @@
   align-items: center;
 }
 
+.headRow{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 15px;
+}
 
+.mrg-btm-none{
+  margin-bottom: 0px;
+}
+
+.img-max-hig{
+  max-height: 100px !important;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.font-weight-400{
+  font-weight: 400;
+}
+
+.bg_trans_aliceblue{
+  background-color: aliceblue;
+  opacity: 0.5;
+}
