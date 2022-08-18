@@ -91,3 +91,17 @@
   background-color: aliceblue;
   opacity: 0.5;
 }
+
+.elementor-widget-wrap .elementor-element-5a8515d4 .elementor-widget-container >div{
+  color: #ffffff;
+}
+
+.textDecoration-none{
+  text-decoration: none !important;
+}
+
+.elementor-20 .elementor-element.elementor-element-3e55d1ec > .elementor-background-overlay {
+  opacity: 0.82 !important;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s !important;
+  background-color: #357454 !important;
+}
