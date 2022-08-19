@@ -105,3 +105,11 @@
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s !important;
   background-color: #357454 !important;
 }
+
+.font-700{
+  font-weight: 700;
+}
+
+.clr-white{
+  color: #ffffff !important;
+}

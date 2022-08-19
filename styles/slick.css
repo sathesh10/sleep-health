@@ -23,7 +23,7 @@
   outline: none;
 }
 .slick-list img :hover {
-    color: green;
+    color: red;
   }
 
   /* .slick-list .grid-item-inner .item--holder .item--meta  {
